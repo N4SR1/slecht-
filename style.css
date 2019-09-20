@@ -1,0 +1,14 @@
+h1.Titel {
+    color: salmon; font-family:  monospace; text-align: center; font-size: 40pxr
+}
+ul.Hobby {
+    font-family: fantasy;
+}
+table , thead , td, trow {
+    border: 1px solid black;
+}
+* {
+    padding: 20px;
+    max-height: 200px;
+    background: purple;
+}   
